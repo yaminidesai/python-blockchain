@@ -125,11 +125,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-**Your Name**
+**Yamini Desai Nyalakonda **
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yaminidesai](https://github.com/yaminidesai)
 
 ## 🙏 Acknowledgments
 
